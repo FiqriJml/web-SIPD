@@ -1,0 +1,2 @@
+Belajar github
+1. membuat file coba.txt
