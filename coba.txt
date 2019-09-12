@@ -3,3 +3,4 @@ Belajar github
 2. belajar mengedit file
 3. melakukan edit file pada coba.txt
 4. belajar ubah lagi
+5. masih belajar commit
