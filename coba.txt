@@ -1,2 +1,4 @@
 Belajar github
 1. membuat file coba.txt
+2. belajar edit file
+3. melakukann edit file pada coba.txt
